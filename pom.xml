@@ -15,13 +15,13 @@
 	<description>Laboratorio 5 del curso de componentes</description>
 	<properties>
 		<java.version>1.8</java.version>
+		<start-class>com.cenfotec.lab5.lab5.ProyectoFinal.java</start-class>
 	</properties>
 	<dependencies>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
-					<start-class>com.cenfotec.lab5.lab5.ProyectoFinal</start-class>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
